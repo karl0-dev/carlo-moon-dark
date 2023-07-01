@@ -1,0 +1,21 @@
+{
+  "name": "carlo-moon-dark",
+  "displayName": "CarloMoon",
+  "description": "Dark theme for Carlo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carlo Moon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carlo Moon Dark-color-theme.json"
+      }
+    ]
+  }
+}
